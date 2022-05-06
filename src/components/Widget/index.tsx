@@ -34,7 +34,7 @@ function Widget() {
         backgroundStyle={styles.modal}
         handleIndicatorStyle={styles.indicator}
       >
-        {/* <Options /> */}
+        <Options />
       </BottomSheet>
     </>
   )
